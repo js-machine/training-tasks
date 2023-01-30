@@ -12,28 +12,34 @@
 Программу обучения можно посмотреть [тут](roadmap.md).
 
 ### Финальное интервью
+
 На финальном интервью эксперты проверят ваши знания и отберут лучших в компанию EPAM Systems.
 
 ### Критерии отбора на финальное интервью
+
 Для гарантированного попадания на финальное интервью вам необходимо набрать 80% от максимально допустимого количества баллов.
 
 ## FAQ
+
 ### Где можно задать вопрос?
+
 Вопросы можно задать в Discord чате: https://discord.gg/8Dv4bAw6Hx. // добавить ссылку на ТГ / дискорд канал
 
 ### Курс проходит онлайн или офлайн?
-Курс проходит полностью в формате онлайн.
+
+Kурс проходит онлайн.
 
 ### Имеет ли значения город проживания?
-Желательно Могилёв, но в целом город проживания значения не имеет.
-[here](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/clean-code/materials)
+
+Город имеет значение, Могилев и Могилёвская область, так как трудоустройство в Могилевский офис.
 
 ### Что я могу сделать до старта обучения? Где получить необходимые знания?
+
 1. интерактивная онлайн игра для понимания что такое Git: https://learngitbranching.js.org/?locale=ru_RU;
 2. интерактивная онлайн игра для понимания что такое Flex: https://flexboxfroggy.com/;
 3. интерактивная онлайн игра для понимания что такое Grid: https://cssgridgarden.com/;
-3. отличный плейлист, который смотреть и повторять за автором для понимания что такое вёрстка: https://www.youtube.com/playlist?list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--;
-4. почитать и начать использовать наши best practices: https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/clean-code/materials;
-5. список проектов, которые можно повторить по видео и даже самим улучшить: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/projects.md;
-6. Заниматься английским с репетитором / пойти на курсы или заниматься самостоятельно по источникам в интернете, например: https://www.youtube.com/@user-xw2tj4lx5f
-7. Для практики можно порешать задачки по JS: https://www.codewars.com/ , https://leetcode.com/
+4. отличный плейлист, который смотреть и повторять за автором для понимания что такое вёрстка: https://www.youtube.com/playlist?list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--;
+5. почитать и начать использовать наши best practices: [generic-principles](clean-code/generic-principles.md), [commits](clean-code/commits.md), [html-css](clean-code/html-css.md);
+6. список проектов, которые можно повторить по видео и даже самим улучшить: [tasks-for-to-do](tasks-for-to-do.md);
+7. Заниматься английским с репетитором / пойти на курсы или заниматься самостоятельно по источникам в интернете, например: https://www.youtube.com/@user-xw2tj4lx5f
+8. Для практики можно порешать задачки по JS: https://www.codewars.com/ , https://leetcode.com/
